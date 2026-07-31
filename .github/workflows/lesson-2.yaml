@@ -22,7 +22,6 @@ jobs:
         run: echo Placeholder for Deployment
 
   
-jobs:
   build_and_test:
     runs-on: ubuntu-latest  
     steps:
